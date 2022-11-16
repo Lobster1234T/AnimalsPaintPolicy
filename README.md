@@ -1,0 +1,2 @@
+# AnimalsPaintPolicy
+PrivatePolicy
